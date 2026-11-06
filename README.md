@@ -19,7 +19,7 @@ The AI evaluates its chances of winning by simulating thousands of possible poke
 ## 📁 Project Structure
 
 ```text
-poker-project/
+poker-bot/
 │
 ├── main.py
 │
